@@ -1,6 +1,6 @@
 # **Project Overview**
 
-This repository contains a comprehensive series of projects focused on **enhancing and extending** the educational operating system **xv6**.  
+This repository is focused on **enhancing and extending** the educational operating system **xv6**.  
 **xv6** (or **XV6**) is a reimplementation of Dennis Ritchie and Ken Thompson's **Unix Version 6 (v6)**, developed at MIT for teaching operating system concepts. It provides a simple yet realistic implementation of a Unix-like system that can run on modern hardware while maintaining the essential architectural elements of Unix.
 
 These projects systematically modify and extend xv6's functionality across multiple core subsystems. The work begins with **basic system call implementations** and **command modifications**, progresses through **process scheduling algorithms**, explores **virtual memory management** with lazy allocation techniques, and culminates in extending the **file system** with support for larger files and symbolic links.
